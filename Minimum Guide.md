@@ -12,5 +12,7 @@ Data should be stored on a system that is resilient and regularly backed up. If 
  - The J: Drive
  - Omero
  - Surf Research Drive
+ Others may apply! talk to your data steward
  
- ==D
+### Naming conventions for files
+When storing your data, you should have a naming convention for your files. We have recommendations here on how to structure this, but a basic file might consist of 
