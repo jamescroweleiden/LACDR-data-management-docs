@@ -6,7 +6,7 @@ but following this guide will mean you are following the basic data management p
 If you:
 - Have all your data stored on a backed up system
 - Have a good naming convention and folder structure for your data
-- know and have recorded a data owner, conditions of use/license, and retention period for your data
+- know and have recorded a data owner and alternate contact, conditions of use/license, and retention period for your data
 - Store your lab notes digitially
 - 
 
