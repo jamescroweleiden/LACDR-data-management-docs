@@ -34,3 +34,5 @@ Data should be accessible by your PI, who should be aware and agree to the schem
 Researchers should keep all lab notes digitally. Ideally these should be stored in an ELN or equivilent system, such as github for computational work, but if that is not possible, stored in sensibly named documents on one of the storage drives outlined above.
 
 ## Depositing data
+Assess at the start of the project what data you think you may be able to deposit, and where
+Plan metadata capture for this, as many repositories have their own standards
