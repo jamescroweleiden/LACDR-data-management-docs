@@ -8,7 +8,8 @@ If you:
 - Have a good naming convention and folder structure for your data
 - know and have recorded a data owner and alternate contact, conditions of use/license, and retention period for your data
 - Store your lab notes digitially
-- 
+- Have a plan for how and what data you will release at the end of the project (or have already done so!)
+COngratulations! you meet the LACDR minimum guidelines
 
 ## Data Storage
 
