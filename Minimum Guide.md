@@ -18,6 +18,7 @@ Congratulations! you meet the LACDR minimum guidelines. We'd like to encourage
 ## Data Storage
 
 ### Sensitive Data
+This includes any personal identifiable information
 You should have discussed with a privacy officer where the data should be stored, and be following that plan
 
 
