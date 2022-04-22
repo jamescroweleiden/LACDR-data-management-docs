@@ -11,7 +11,7 @@ If you:
 - Have a plan for how and what data you will release at the end of the project (or have already done so!)
 
 
-Congratulations! you meet the LACDR minimum guidelines. We'd like to encourage 
+Congratulations! you meet the LACDR minimum guidelines. We'd like to encourage you to read the guide for good data management at LACDR, and hope you can implement some of those steps
 
 
 
