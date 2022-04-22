@@ -53,4 +53,3 @@ Researchers should keep all lab notes digitally. Ideally these should be stored 
 ## Depositing data
 - Assess at the start of the project what data you think you may be able to deposit, and where
 - Plan what metadata to record for this, as each repository will have different standards
--
