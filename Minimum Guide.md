@@ -4,16 +4,23 @@ but following this guide will mean you are following the basic data management p
 
 ## 30 second guide
 If you:
+- Have a data management plan, and have sent it to the data steward
 - Have all your data stored on a backed-up system
 - Have a good naming convention and folder structure for your data
 - know and have recorded a data owner and alternate contact, conditions of use/license, and retention period for your data
 - Store your lab notes digitally
 - Have a plan for how and what data you will release at the end of the project (or have already done so!)
 
+Congratulations! you meet the LACDR minimum guidelines. We'd encourage you to read the guide for good data management at LACDR, and hope you can implement some of those steps
 
-Congratulations! you meet the LACDR minimum guidelines. We'd like to encourage you to read the guide for good data management at LACDR, and hope you can implement some of those steps
+## Data management plan
+All research projects should have a data management plan (DMP). Researchers should complete their own DMPs, and send on to 
+Use Leiden’s data management template [link], unless required by funding body (many bodies accept Leiden's template, so check)
 
+Researchers should complete the DMP themselves to the best of their ability, and then send it to the data steward for review. 
+The data steward will review, suggest edits, and refer any parts that involve sensitive data to a privacy officer.
 
+Data management plans should be reviewed every six months, when research direction changes significantly, or when new data partners (for example, new researchers or collaborators) join the team.
 
 ## Data Storage
 
@@ -29,7 +36,7 @@ Data should be stored on a system that is resilient and regularly backed up. If 
  - Surf Research Drive
 
 
- Other systems may work! talk to your data steward if we're missing one that is in use and meets this.
+ Other systems may work. talk to your data steward if we're missing one that is in use and meets this.
  
  
 ### Naming conventions for files
