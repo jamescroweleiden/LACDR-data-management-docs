@@ -32,7 +32,7 @@ This includes any personal identifiable information
 You should have discussed with a privacy officer where the data should be stored, and be following that plan
 
 ### Other data 
-Data should be stored on a system that is resilient and regularly backed up. If you're storing your data on these three systems, your data meets this:
+Data should be stored on a system that is resilient and regularly backed up. If you're storing your data on any of these three systems, your data meets this:
  - The J: Drive
  - Omero
  - Surf Research Drive
@@ -72,3 +72,7 @@ Researchers should keep all lab notes digitally. Ideally these should be stored 
 ## Depositing data
 - Assess at the start of the project what data you think you may be able to deposit, and where
 - Plan what metadata to record for this, as each repository will have different standards
+- Release the data with an appropriate licence [link]
+- Use a repository that gives a persistent identifier
+- Consider if your data would be better stored in a subject specific or a more generic data repository - https://www.re3data.org/ has a good search tool for subject specific data repositories.
+- Talk to your data steward early about getting your data into a repository, to make sure you're collecting all the required metadata
